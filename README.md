@@ -39,7 +39,7 @@ If a line contains dangerous terms like <script> or SQL queries like UNION SELEC
 
 #### Credit Card Masking
 
-The python script hides all digits of a credit caard except the last 4 digits
+The python script hides all digits of a credit card except the last 4 digits
 
 ##### ALU email validation
 
