@@ -31,7 +31,7 @@ Phone Pattern: \+?\d{1,4}[-\s]?\(?\d{2,4}\)?[-\s]?\d{3}[-\s]?\d{3,4}
 
 URL Pattern: https?://[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}[^\s]*
 
-#### Defensive Security Features
+#### Security features
 
 Before extracting anything, the script runs a direct check:
 
@@ -41,7 +41,7 @@ If a line contains dangerous terms like <script> or SQL queries like UNION SELEC
 
 The python script hides all digits of a credit caard except the last 4 digits
 
-##### ALU Domain Specific Classifications
+##### ALU email validation
 
 The script uses Python's built-in .endswith() string method to group emails according to ALU groups.
 
