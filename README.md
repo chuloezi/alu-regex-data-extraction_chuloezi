@@ -4,7 +4,7 @@ This is a program or tool that helps us with secure data extraction using regex(
 
 ## Project Tree
 
-alu-regex-data-extraction_junior-dev/
+alu-regex-data-extraction_chuloezi/
 ├── input/
 │   └── raw-text.txt             
 ├── src/
