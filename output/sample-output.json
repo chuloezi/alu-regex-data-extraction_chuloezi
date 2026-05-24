@@ -1,0 +1,35 @@
+{
+    "emails": {
+        "alu_official": [
+            "system.ops@alueducation.com"
+        ],
+        "alu_alumni": [
+            "network.updates@alumni.alueducation.com"
+        ],
+        "alu_si": [
+            "advisory-team@si.alueducation.com"
+        ],
+        "external": [
+            "independent-vendor2026@gmail.com",
+            "malicious-actor@domain.com"
+        ]
+    },
+    "urls": [
+        "https://portal.alu-operations.rw/dashboard/home?user=true",
+        "http://api.internal-validation.net:8080/v1/auth.",
+        "https://en.wikipedia.org/wiki/Regular_expression"
+    ],
+    "phone_numbers": [
+        "+1 (415) 555-0192",
+        "212-555-0134",
+        "+250 788 123 456",
+        "+254-712-345-678"
+    ],
+    "credit_cards": {
+        "note": "Only last 4 digits shown for security",
+        "numbers": [
+            "************4444",
+            "************4567"
+        ]
+    }
+}
