@@ -13,7 +13,7 @@ alu-regex-data-extraction_chuloezi/
 │   └── sample-output.json        
 └── README.md                     
 
-### How Our Regex Matches Data
+### Regex patterns
 
 These patterns look for specific data in the raw text:
 
