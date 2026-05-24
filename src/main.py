@@ -51,7 +51,7 @@ for card in raw_cards:
 
     # Security: reject if all 16 digits are the same
     if len(set(digits)) == 1:
-        print(f"Rejected fake card: {card}")
+        print(f"Rejected fake card: {card}\n")
         continue
 
     # Security: mask the number and only show last 4 digits in the output
